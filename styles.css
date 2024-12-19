@@ -4,7 +4,7 @@
 
 body {
   font-family: Helvetica, Arial, sans-serif;
-  margin: 40px;
+  margin-left: 40px;
   padding: 0;
 }
 
@@ -24,17 +24,18 @@ section {
 }
 
 p {
-  margin: 80px;
+  margin-left: 80px;
 }
 
 h2 {
-  margin: 80px;
+  margin-left: 80px;
 }
 
 .break {
   border-top: 4px solid #ff9700;
   height: 40px;
   padding: 40px;
+  margin: 40px;
 }
 
 .lab-light {
