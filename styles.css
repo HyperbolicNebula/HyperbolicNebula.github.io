@@ -17,6 +17,7 @@ header {
 }
 
 section {
+  background-color: #000000;
   border-radius: 20px 40px 0px 80px;
   border-bottom: 4px solid #ff9700;
 }
