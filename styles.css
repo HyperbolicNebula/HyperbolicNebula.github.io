@@ -19,7 +19,8 @@ section {
   background-color: #000000;
   color: #FFFFFF;
   padding: 30px;
-  margin: 60px;
+  margin-left: 60px;
+  margin-right: 60px;
   border-radius: 20px 40px 0px 80px;
 }
 
