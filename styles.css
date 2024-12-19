@@ -21,9 +21,17 @@ section {
   color: #FFFFFF;
   padding: 30px;
   border-radius: 20px 40px 0px 80px;
-  border-bottom: 4px solid #ff9700;
 }
 
-.lab {
+.break {
+  border-top: 4px solid #ff9700;
+  height: 30px;
+}
+
+.lab-light {
   color: #CEFFCD;
+}
+
+.lab-dark {
+  color: #0ECD0E;
 }
