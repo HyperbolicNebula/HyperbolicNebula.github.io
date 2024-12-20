@@ -26,6 +26,7 @@ section {
 
 p {
   margin-left: 60px;
+  line-height: 1.5;
 }
 
 h2 {
@@ -45,6 +46,10 @@ a:hover {
   margin-bottom: 56px;
   margin-left: 60px;
   margin-right: 60px;
+}
+
+.indent {
+  text-indent: 3ch;
 }
 
 .lab-light {
